@@ -19,7 +19,7 @@ Aplikasi berjalan di server lokal dan menyediakan beberapa endpoint untuk:
 ## Langkah Pengerjaan
 
 ### 1. Membuat Folder Project
-Folder project diberi nama:  expressModule_F1D02310144
+Folder project diberi nama:  week6-express-module
 
 
 ### 2. Inisialisasi Node.js Project
