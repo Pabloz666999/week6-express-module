@@ -66,7 +66,7 @@ Menampilkan hasil perhitungan sederhana
 Menampilkan JSON array profile
 👉 http://localhost:3000/profile
 
-<img width="328" height="419" alt="image" src="https://github.com/user-attachments/assets/27db7955-8d77-488f-afb4-82728b4e52ad" />
+<img width="362" height="428" alt="image" src="https://github.com/user-attachments/assets/8fc157bb-54f2-4ea1-970c-3202c7f2354f" />
 
 
 4. GET /profile/1
