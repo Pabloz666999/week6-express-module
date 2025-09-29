@@ -50,15 +50,22 @@ Hasil
 Menampilkan Nama dan NIM
 👉 http://localhost:3000/
 
+<img width="278" height="161" alt="image" src="https://github.com/user-attachments/assets/711d20c0-676a-4acc-bb8e-ba1e4516d95e" />
+
+
 2. GET /hitung
 
 Menampilkan hasil perhitungan sederhana
 👉 http://localhost:3000/hitung
 
+<img width="318" height="149" alt="image" src="https://github.com/user-attachments/assets/8a1ff744-f90d-40d5-b6c1-ad381c06e6a9" />
+
+
 3. GET /profile
 
 Menampilkan JSON array profile
 👉 http://localhost:3000/profile
+
 <img width="328" height="419" alt="image" src="https://github.com/user-attachments/assets/27db7955-8d77-488f-afb4-82728b4e52ad" />
 
 
@@ -66,3 +73,6 @@ Menampilkan JSON array profile
 
 Menampilkan detail profile berdasarkan ID/NIM
 👉 http://localhost:3000/profile/1
+
+<img width="344" height="250" alt="image" src="https://github.com/user-attachments/assets/4296e39f-2888-4060-a861-3382a1d1296f" />
+
